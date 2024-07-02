@@ -1,0 +1,69 @@
+2024-06-30T04:17:04+00:00 DEBUG POST: https://ads.tiktok.com/marketing_api/api/developer/app/create_auto_approve/
+
+{"business_platform":"PROD","smb_id":"tt4b_woocommerce_6680dc40a86f3httplocalhostwordpresswp-admin","smb_name":"PROD","redirect_url":"http:\/\/localhost\/wordpress\/wp-admin\/"}
+ ajax: no
+2024-06-30T04:17:06+00:00 DEBUG Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+HTTP/1.1 200 OK
+Content-Type: application/json
+X-Tt-Logid: 20240630041705FC5B7D0EB117345A61FB,20240630041705FC5B7D0EB117345A61FB
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+x-tt-trace-host: 01c6d9eb4a2e41597361a5c7100bd7b7c85097f1936086f551919f58d98b2fb4b34068e5d3c296785101f1b74d91dba82241dce23df710e72eb7a0ec2a3ac93575eb2f0d55ef36eef6e6bc57fef33f221017a06b9d0694599288e5251f0cca0a4cc7d616b833cd650f0cb7f7af97727ba7
+x-tt-trace-id: 00-240630041705FC5B7D0EB117345A61FB-79E7E8FE34DC254A-00
+Server: TLB
+Content-Encoding: gzip
+Content-Length: 208
+X-Origin-Response-Time: 162,23.54.124.117
+X-Akamai-Request-ID: 1667389.229bbba6
+Date: Sun, 30 Jun 2024 04:17:06 GMT
+X-Cache: TCP_MISS from a23-219-204-170.deploy.akamaitechnologies.com (AkamaiGHost/11.5.3-56943929) (-)
+Connection: close
+Vary: Accept-Encoding
+X-Cache-Remote: TCP_MISS from a23-54-124-117.deploy.akamaitechnologies.com (AkamaiGHost/11.5.3-56943929) (-)
+x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+Server-Timing: cdn-cache; desc=MISS, edge; dur=25, origin; dur=162
+Server-Timing: inner; dur=156
+X-Parent-Response-Time: 185,23.219.204.170
+
+{"code":0,"msg":"ok","data":{"app_id":"7386145566427709458","redirect_uri":"http:\/\/localhost\/wordpress\/wp-admin\/","app_secret":"c76cfa49580ce310483af016f8359ae31bc4d78e","external_data_key":"f33b0121-5335-4832-91c6-65d3bafc0241"}}
+
+2024-06-30T06:00:28+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: hit AddToCart
+2024-06-30T06:00:28+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: Missing option "access_token"
+2024-06-30T06:00:30+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: hit AddToCart
+2024-06-30T06:00:30+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: Missing option "access_token"
+2024-06-30T06:00:30+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: hit AddToCart
+2024-06-30T06:00:30+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: Missing option "access_token"
+2024-06-30T06:00:37+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: hit AddToCart
+2024-06-30T06:00:37+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: Missing option "access_token"
+2024-06-30T06:00:38+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: hit AddToCart
+2024-06-30T06:00:38+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: Missing option "access_token"
+2024-06-30T06:00:41+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: hit AddToCart
+2024-06-30T06:00:41+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: Missing option "access_token"
+2024-06-30T06:02:11+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: hit InitiateCheckout
+2024-06-30T06:02:11+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: Missing option "access_token"
+2024-06-30T10:04:10+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: hit AddToCart
+2024-06-30T10:04:10+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: Missing option "access_token"
+2024-06-30T10:05:09+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: hit AddToCart
+2024-06-30T10:05:09+00:00 DEBUG Tt4b_Pixel_Class::inject_add_to_cart_event: Missing option "access_token"
+2024-06-30T10:05:43+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: hit InitiateCheckout
+2024-06-30T10:05:43+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: Missing option "access_token"
+2024-06-30T10:08:55+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: hit InitiateCheckout
+2024-06-30T10:08:55+00:00 DEBUG Tt4b_Pixel_Class::inject_initiate_checkout_event: Missing option "access_token"
+2024-06-30T14:09:22+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit ViewContent
+2024-06-30T14:09:22+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2024-06-30T14:11:27+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit ViewContent
+2024-06-30T14:11:27+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2024-06-30T14:22:52+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit ViewContent
+2024-06-30T14:22:52+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2024-06-30T14:36:36+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2024-06-30T14:36:37+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2024-06-30T14:36:37+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2024-06-30T14:50:09+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2024-06-30T14:50:10+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2024-06-30T14:50:10+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2024-06-30T14:50:10+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2024-06-30T14:50:10+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2024-06-30T14:50:10+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2024-06-30T14:50:11+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2024-06-30T14:50:11+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2024-06-30T14:50:45+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync

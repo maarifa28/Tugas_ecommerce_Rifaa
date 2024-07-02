@@ -1,0 +1,198 @@
+2024-06-29T14:13:45+00:00 ERROR Error getting data feed
+2024-06-29T14:13:47+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Connection timed out after 5006 milliseconds
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-06-29T21:18:04+00:00 ERROR Error getting data feed
+2024-06-29T21:18:04+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Connection timed out after 15004 milliseconds
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-06-29T21:18:25+00:00 ERROR Error getting data feed
+2024-06-29T21:18:25+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Connection timed out after 5014 milliseconds
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-06-29T21:18:30+00:00 ERROR Error getting data feed
+2024-06-29T21:18:30+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Connection timed out after 5012 milliseconds
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-06-29T21:18:35+00:00 ERROR Error getting data feed
+2024-06-29T21:18:35+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Connection timed out after 5008 milliseconds
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-06-29T21:19:01+00:00 ERROR Error getting data feed
+2024-06-29T21:19:01+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Connection timed out after 15013 milliseconds
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-06-29T21:19:13+00:00 ERROR Error getting data feed
+2024-06-29T21:19:13+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Connection timed out after 5000 milliseconds
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-06-29T21:19:18+00:00 ERROR Error getting data feed
+2024-06-29T21:19:18+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Connection timed out after 5002 milliseconds
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-06-29T21:19:23+00:00 ERROR Error getting data feed
+2024-06-29T21:19:23+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Connection timed out after 5008 milliseconds
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+

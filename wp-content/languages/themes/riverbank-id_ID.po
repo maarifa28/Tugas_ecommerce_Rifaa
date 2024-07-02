@@ -1,0 +1,389 @@
+# Translation of Themes - Riverbank in Indonesian
+# This file is distributed under the same license as the Themes - Riverbank package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-17 17:09:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Riverbank\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Riverbank is a highly customizable and user-friendly WordPress theme that is optimized for search engines and fully compatible with the Gutenberg editor and popular page builder plugins. With support for WooCommerce, translation into other languages, and a responsive design, Riverbank is suitable for a variety of websites including blogs, small businesses, and online shops."
+msgstr "Riverbank adalah tema WordPress yang sangat mudah disesuaikan dan ramah pengguna yang dioptimalkan untuk mesin pencari dan sepenuhnya kompatibel dengan editor Gutenberg dan plugin page builder populer lainnya. Dengan dukungan WooCommerce, terjemahan ke bahasa lain, dan desain yang responsif, Riverbank cocok untuk berbagai situs web termasuk blog, usaha kecil, dan toko online."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Riverbank"
+msgstr "Riverbank"
+
+#: styles/light-orange.json
+msgctxt "Style variation name"
+msgid "Light Orange"
+msgstr "Oranye Terang"
+
+#: styles/eco-friendly.json
+msgctxt "Style variation name"
+msgid "Eco-friendly"
+msgstr "Ramah lingkungan"
+
+#: styles/deep-emerald.json
+msgctxt "Style variation name"
+msgid "Deep Emerald"
+msgstr "Deep Emerald"
+
+#: styles/dark-orange.json
+msgctxt "Style variation name"
+msgid "Dark Orange"
+msgstr "Oranye Gelap"
+
+#: styles/blue-river.json
+msgctxt "Style variation name"
+msgid "Blue River"
+msgstr "Sungai Biru"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Footer"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Header"
+
+#: styles/blue-river.json styles/dark-orange.json styles/deep-emerald.json
+#: styles/eco-friendly.json styles/light-orange.json theme.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr "Aksen"
+
+#: styles/blue-river.json styles/dark-orange.json styles/deep-emerald.json
+#: styles/eco-friendly.json styles/light-orange.json theme.json
+msgctxt "Color name"
+msgid "Foreground Alt"
+msgstr "Alt Latar Depan"
+
+#: styles/blue-river.json styles/dark-orange.json styles/deep-emerald.json
+#: styles/eco-friendly.json styles/light-orange.json theme.json
+msgctxt "Color name"
+msgid "Background Dark"
+msgstr "Latar Belakang Gelap"
+
+#: styles/blue-river.json styles/dark-orange.json styles/deep-emerald.json
+#: styles/eco-friendly.json styles/light-orange.json theme.json
+msgctxt "Color name"
+msgid "Background Alt"
+msgstr "Alt Latar Belakang"
+
+#: styles/blue-river.json styles/dark-orange.json styles/deep-emerald.json
+#: styles/eco-friendly.json styles/light-orange.json theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Latar Depan"
+
+#: styles/blue-river.json styles/dark-orange.json styles/deep-emerald.json
+#: styles/eco-friendly.json styles/light-orange.json theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Latar belakang"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lora"
+msgstr "Lora"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr "Outfit"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr "Figtree"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Serif Pro"
+msgstr "Source Serif Pro"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Fraunces"
+msgstr "Fraunces"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Besar Sekali"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Sangat Besar"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Besar"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Sedang"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Normal"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Kecil"
+
+#: inc/patterns/section-with-covers-and-text.php:44
+msgid "Full-width section with covers and text"
+msgstr "Bagian lebar penuh dengan sampul dan teks"
+
+#: inc/patterns/quote-section.php:16
+msgid "Quote"
+msgstr "Kutipan"
+
+#: inc/patterns/pricing-plans-row.php:87
+msgid "Get started with a premium plan"
+msgstr "Mulai dengan paket premium"
+
+#: inc/patterns/pricing-plans-row.php:77
+msgid "Row with pricing plans"
+msgstr "Baris dengan paket harga"
+
+#: inc/patterns/pricing-plans-row.php:21
+msgid "Premium"
+msgstr "Premium"
+
+#: inc/patterns/pricing-plans-row.php:17
+msgid "Basic"
+msgstr "Dasar"
+
+#: inc/patterns/pricing-plans-columns.php:84
+msgid "Columns of pricing plans"
+msgstr "Kolom dengan paket harga"
+
+#: inc/patterns/pricing-plans-columns.php:26
+msgid "Yearly"
+msgstr "Tahunan"
+
+#: inc/patterns/pricing-plans-columns.php:22
+msgid "Monthly"
+msgstr "Bulanan"
+
+#: inc/patterns/pricing-plans-columns.php:18
+msgid "Weekly"
+msgstr "Mingguan"
+
+#: inc/patterns/posts-grid.php:59
+msgid "Unfortunately no posts were found"
+msgstr "Maaf, tidak ada pos ditemukan"
+
+#: inc/patterns/posts-grid.php:16
+msgid "Posts grid"
+msgstr "Grid pos"
+
+#: inc/patterns/hero-with-image-columns.php:71
+msgid "A Minimal & Organic Theme"
+msgstr "Tema Minimal & Organik"
+
+#: inc/patterns/hero-with-image-columns.php:53
+msgid "Hero with image columns"
+msgstr "Hero dengan kolom gambar"
+
+#: inc/patterns/hero-with-image-columns.php:28
+msgid "Style variations"
+msgstr "Variasi gaya"
+
+#: inc/patterns/hero-with-feature-columns.php:48
+msgid "Hero section with feature columns"
+msgstr "Bagian hero dengan kolom feature"
+
+#: inc/patterns/hero-with-feature-columns.php:19
+#: inc/patterns/hero-with-image-columns.php:24
+msgid "Patterns"
+msgstr "Pola"
+
+#: inc/patterns/hero-with-feature-columns.php:18
+#: inc/patterns/hero-with-image-columns.php:20
+msgid "FSE Templates"
+msgstr "Template FSE"
+
+#: inc/patterns/full-width-columns-with-text-and-cover.php:20
+msgid "Full width columns with text and cover"
+msgstr "Kolom lebar penuh dengan teks dan sampul"
+
+#: inc/patterns/feature-grid.php:38
+msgid "Features grid"
+msgstr "Grid feature"
+
+#: inc/patterns/feature-grid.php:20
+msgid "Feature"
+msgstr "Feature"
+
+#: inc/patterns/columns-with-images-and-buttons.php:67
+msgid "Columns with images and buttons"
+msgstr "Kolom dengan gambar dan tombol"
+
+#: inc/patterns/columns-with-images-and-buttons.php:28
+msgid "Powered by blocks"
+msgstr "Didukung oleh blok"
+
+#: inc/patterns/columns-with-images-and-buttons.php:24
+msgid "Built-in Patterns"
+msgstr "Pola Bawaan"
+
+#: inc/patterns/columns-with-images-and-buttons.php:20
+#: inc/patterns/hero-with-feature-columns.php:20
+msgid "Style Variations"
+msgstr "Variasi Gaya"
+
+#: inc/patterns/columns-with-image-title-and-text.php:47
+msgid "Columns with image, title and text"
+msgstr "Kolom dengan gambar, judul, dan teks"
+
+#: inc/patterns/call-to-action-inverted.php:23
+msgid "Before we even knew it, we were off the ground"
+msgstr "Bahkan sebelum kami menyadarinya, kami sudah lepas landas"
+
+#: inc/patterns/call-to-action-inverted.php:16
+msgid "Call to action"
+msgstr "Call to action"
+
+#: inc/patterns/call-to-action-inverted-inline.php:36
+msgid "Learn more"
+msgstr "Pelajari lebih lanjut"
+
+#: inc/patterns/call-to-action-inverted-inline.php:16
+msgid "Call to action inline"
+msgstr "Call to action dalam baris"
+
+#: inc/patterns/boxed-image-features-with-buttons.php:73
+#: inc/patterns/pricing-plans-columns.php:98
+msgid "This is a description for the section"
+msgstr "Ini adalah keterangan bagian"
+
+#: inc/patterns/boxed-image-features-with-buttons.php:53
+msgid "Boxed image features with buttons"
+msgstr "Feature gambar kotak dengan tombol"
+
+#: inc/patterns/boxed-image-features-with-buttons.php:44
+msgid "Feature three"
+msgstr "Feature tiga"
+
+#: inc/patterns/boxed-image-features-with-buttons.php:43
+msgid "Feature two"
+msgstr "Feature dua"
+
+#: inc/patterns/boxed-image-features-with-buttons.php:42
+msgid "Feature one"
+msgstr "Feature satu"
+
+#: inc/patterns/boxed-columns-with-text-image-and-buttons.php:38
+#: inc/patterns/boxed-columns-with-text-image-and-buttons.php:66
+#: inc/patterns/call-to-action-inverted.php:33
+#: inc/patterns/columns-with-images-and-buttons.php:51
+msgid "Button"
+msgstr "Tombol"
+
+#: inc/patterns/boxed-columns-with-text-image-and-buttons.php:28
+#: inc/patterns/boxed-columns-with-text-image-and-buttons.php:56
+msgid "Heading"
+msgstr "Judul"
+
+#: inc/patterns/boxed-columns-with-text-image-and-buttons.php:18
+msgid "Boxed columns with text, image and buttons"
+msgstr "Kolom kotak dengan teks, gambar, dan tombol"
+
+#: inc/Core.php:90
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: inc/Block_Patterns.php:62
+msgid "Riverbank Patterns"
+msgstr "Pola Riverbank"
+
+#: inc/Admin.php:65 inc/Admin.php:189
+msgid "Learn More"
+msgstr "Pelajari Selengkapnya"
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:184
+msgid "Install & Activate %s"
+msgstr "Instal & Aktifkan %s"
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:182
+msgid "Activate %s"
+msgstr "Aktifkan %s"
+
+#: inc/Admin.php:172
+msgid "Otter is a Gutenberg Blocks page builder plugin that adds extra functionality to the WordPress Block Editor (also known as Gutenberg) for a better page building experience without the need for traditional page builders."
+msgstr "Otter adalah plugin page builder dengan Blok Gutenberg yang menambahkan fungsionalitas ekstra ke Editor Blok WordPress (juga dikenal sebagai Gutenberg) untuk pengalaman pembuatan halaman yang lebih baik tanpa memerlukan page builder tradisional."
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:168
+msgid "Power up your website building experience with %s!"
+msgstr "Optimalkan pengalaman membangun situs web Anda dengan %s!"
+
+#: inc/Admin.php:162
+msgid "Otter Blocks preview"
+msgstr "Pratinjau Otter Blocks"
+
+#: inc/Admin.php:154
+msgid "Done"
+msgstr "Selesai"
+
+#: inc/Admin.php:153
+msgid "Installing"
+msgstr "Menginstal"
+
+#: inc/Admin.php:152
+msgid "Activating"
+msgstr "Mengaktifkan"
+
+#. translators: %s: commands to run the theme
+#: functions.php:105
+msgid "You appear to be running the Riverbank theme from source code. Please finish installation by running %s."
+msgstr "Tampaknya Anda sedang menjalankan tema Riverbank dari kode sumbernya. Mohon selesaikan instalasi dengan menjalankan %s."
+
+#: functions.php:57
+msgid "upgrading PHP to the latest version"
+msgstr "meningkatkan PHP ke versi terbaru"
+
+#. translators: %s message to upgrade PHP to the latest version
+#: functions.php:53
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by %1$s. Riverbank's minimal requirement is PHP%2$s."
+msgstr "Hei, kami menemukan Anda menjalankan PHP versi lama yang tidak lagi didukung. Pastikan situs Anda cepat dan aman, dengan %1$s. Persyaratan minimal Riverbank adalah PHP%2$s."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeisle.com/themes/riverbank/"
+msgstr "https://themeisle.com/themes/riverbank/"
